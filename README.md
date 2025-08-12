@@ -1,55 +1,43 @@
 # 🎁 Challenge del Amigo Secreto
 
 ¡Bienvenido al **Challenge del Amigo Secreto**!  
-Un pequeño pero divertido proyecto web que demuestra lógica de programación en JavaScript, ideal para reuniones entre amigos. Simplemente ingresa los nombres de los participantes, haz clic en un botón y... ¡que comience la sorpresa! 🎉
-
----
-
-## 🌐 Proyecto Web Interactivo
-
-Este proyecto fue creado como un reto personal para practicar y demostrar habilidades de programación con **JavaScript**, **HTML** y **CSS**, sin usar frameworks ni librerías externas.
-
----
-
-## 🎮 ¿Cómo funciona?
-
-1. Ingresa los nombres de tus amigos en el campo de texto.
-2. Agrega cada nombre a la lista.
-3. Haz clic en el botón “Elegir amigo secreto”.
-4. El sistema seleccionará un nombre al azar.
-5. ¡La persona seleccionada puede recibir un reto o sorpresa!
+Este es un pequeño juego web donde puedes escribir los nombres de tus amigos, hacer clic en un botón, y el sistema elegirá uno de ellos al azar para asignarle un reto sorpresa. Ideal para romper el hielo o animar cualquier reunión 🎉.
 
 ---
 
 ## ✨ Características
 
-- 🧠 Lógica 100% hecha en JavaScript puro.
-- 👨‍👩‍👧 Agrega cualquier número de participantes.
-- 🎯 Selección aleatoria asegurada.
-- 💡 Ideal para jugar en grupo desde un mismo dispositivo.
-- 📱 Compatible con escritorio y dispositivos móviles.
+- ✅ Interfaz sencilla e intuitiva.
+- 🧑‍🤝‍🧑 Permite agregar múltiples nombres.
+- 🔄 Selección aleatoria con un solo clic.
+- 🎲 Perfecto para jugar en reuniones o en línea con amigos.
 
 ---
 
-## 🖼️ Capturas de Pantalla
+## 📸 Captura de Pantalla
 
-### Pantalla Principal
-
-![Captura de Pantalla](ruta/a/tu/imagen1.png)
+*(Aquí puedes agregar una imagen del juego si lo deseas)*
 
 ---
 
-## 🎥 Demo en Video
+## 🚀 Cómo usar
 
-> Puedes grabar un video corto mostrando cómo funciona el flujo del juego, subirlo a YouTube o GitHub y enlazarlo aquí:
-
-[![Ver Video en YouTube](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO)
+1. Abre el proyecto en tu navegador.
+2. Escribe los nombres de los participantes en la casilla de input.
+3. Haz clic en el botón "Elegir amigo secreto".
+4. ¡Mira quién fue elegido y disfruta del reto!
 
 ---
 
-## 🚀 Ejecutar el Proyecto
+## 🛠️ Tecnologías Usadas
 
-Puedes descargar y abrir el archivo HTML directamente en tu navegador:
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+---
+
+## 📦 Instalación y Uso Local
 
 ```bash
 git clone https://github.com/tuusuario/amigo-secreto-challenge.git
