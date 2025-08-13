@@ -40,6 +40,6 @@ Este es un pequeño juego web donde puedes escribir los nombres de tus amigos, h
 ## 📦 Instalación y Uso Local
 
 ```bash
-git clone https://github.com/tuusuario/amigo-secreto-challenge.git
-cd amigo-secreto-challenge
-open index.html
+    git clone https://github.com/Tdristados/Challenge-Amigo-Secreto.git
+    cd Challenge-Amigo-Secreto
+    open index.html
