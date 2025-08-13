@@ -16,19 +16,20 @@ Este es un pequeño juego web donde puedes escribir los nombres de tus amigos, h
 
 ## 📸 Interfaz del juego
 
--![Demo de la aplicación](assets/Captura1.png)
-¿Quién gastará el helado?
--![Demo de la aplicación](assets/Captura2.png)
-JUAN LO GASTA! jajaja
--![Demo de la aplicación](assets/Captura3.png)
-
-## Video de uso
-
 <div align="center">
-  <img src="assets/Video.gif" alt="Video">
+  <img src="assets/Captura1.png" alt="Captura de pantalla 1">
 </div>
 
+<p> ¿Quién gastará el helado? <\p>
 
+<div align="center">
+  <img src="assets/Captura2.png" alt="Captura de pantalla 2">
+</div>
+
+<p> JUAN LO GASTA! jajaja<\p>
+<div align="center">
+  <img src="assets/Captura3.png" alt="Captura de pantalla 3">
+</div>
 
 ---
 
@@ -38,6 +39,10 @@ JUAN LO GASTA! jajaja
 2. Escribe los nombres de los participantes en la casilla de input.
 3. Haz clic en el botón "Elegir amigo secreto".
 4. ¡Mira quién fue elegido y disfruta del reto!
+
+<div align="center">
+  <img src="assets/Video.gif" alt="Video">
+</div>
 
 ---
 
