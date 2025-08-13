@@ -14,9 +14,18 @@ Este es un pequeño juego web donde puedes escribir los nombres de tus amigos, h
 
 ---
 
-## 📸 Captura de Pantalla
+## 📸 Interfaz del juego
 
-*(Aquí puedes agregar una imagen del juego si lo deseas)*
+-![Demo de la aplicación](assets/Captura1.png)
+¿Quién gastará el helado?
+-![Demo de la aplicación](assets/Captura2.png)
+JUAN LO GASTA! jajaja
+-![Demo de la aplicación](assets/Captura3.png)
+
+## Video de uso
+
+-![Demo de la aplicación](assets/Video1.gif)
+
 
 ---
 
@@ -38,8 +47,15 @@ Este es un pequeño juego web donde puedes escribir los nombres de tus amigos, h
 ---
 
 ## 📦 Instalación y Uso Local
-
+- **En linux:** ejecutar este comando en la terminal.
 ```bash
     git clone https://github.com/Tdristados/Challenge-Amigo-Secreto.git
     cd Challenge-Amigo-Secreto
     open index.html
+```
+- **En Windows:** ejecutar este comando en el powerShell.
+```bash
+    git clone https://github.com/Tdristados/Challenge-Amigo-Secreto.git
+    cd Challenge-Amigo-Secreto
+    start index.html
+``` 
