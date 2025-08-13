@@ -24,7 +24,7 @@ JUAN LO GASTA! jajaja
 
 ## Video de uso
 
--![Demo de la aplicación](assets/Video1.gif)
+-![Demo de la aplicación](assets/Video.gif)
 
 
 ---
