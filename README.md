@@ -24,7 +24,10 @@ JUAN LO GASTA! jajaja
 
 ## Video de uso
 
--![Demo de la aplicación](assets/Video1.gif)
+<div align="center">
+  <img src="assets/Video.gif" alt="Video">
+</div>
+
 
 
 ---
