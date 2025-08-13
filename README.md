@@ -29,13 +29,10 @@ Este es un pequeño juego web donde puedes escribir los nombres de tus amigos, h
 <p>JUAN LO GASTA! jajaja
 <div align="center">
   <img src="assets/Captura3.png" alt="Captura de pantalla 3">
-  
-## Video de uso
-
--![Demo de la aplicación](assets/Video1.gif)
-
 
 ---
+
+## Video de uso
 
 ## 🚀 Cómo usar
 
