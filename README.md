@@ -20,13 +20,13 @@ Este es un pequeño juego web donde puedes escribir los nombres de tus amigos, h
   <img src="assets/Captura1.png" alt="Captura de pantalla 1">
 </div>
 
-<p> ¿Quién gastará el helado? <\p>
+<p>¿Quién gastará el helado?
 
 <div align="center">
   <img src="assets/Captura2.png" alt="Captura de pantalla 2">
 </div>
 
-<p> JUAN LO GASTA! jajaja<\p>
+<p>JUAN LO GASTA! jajaja
 <div align="center">
   <img src="assets/Captura3.png" alt="Captura de pantalla 3">
 </div>
